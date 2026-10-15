@@ -2,7 +2,7 @@
   "name": "zakaontop",
   "version": "4.1.0",
   "description": "single file for zaka",
-  "main": "hw.svg",
+  "main": "study.svg",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/zaka13alt/history#readme",
   "exports": {
-    "default": "./hw.svg"
+    "default": "./study.svg"
   }
 }
