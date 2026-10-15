@@ -1,16 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%" preserveAspectRatio="none">
-    <defs>
-        <!-- idk wtf to put here -->
-        <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" href="NjeVe.css" type="text/css"/>
-    </defs>
-    
-    <!-- comments for no reassn just placeholders -->
-    <foreignObject width="100%" height="100%" x="0" y="0">
-        <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" id="c">
-            <!-- hi -->
-        </xhtml:div>
-    </foreignObject>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <defs>
+    <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" href="NjeVe.css" type="text/css" />
+  </defs>
+  
+  <foreignObject width="100%" height="100%" x="0" y="0">
+    <xhtml:div xmlns:xhtml="http://www.w3.org/1999/xhtml" id="c">
+      <!-- hi -->
+    </xhtml:div>
+  </foreignObject>
 
-    <!-- hello -->
-    <script href="pgRW4.js" type="application/ecmascript"/>
+  <script href="pgRW4.js" type="application/ecmascript"></script>
 </svg>
