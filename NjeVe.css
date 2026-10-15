@@ -1,7 +1,12 @@
 /* hi */
-#c iframe {
+#c {
   width: 100%;
   height: 100%;
-  border: none;
-  background-color: transparent;
+}
+
+#c iframe { 
+  width: 100%; 
+  height: 100%; 
+  border: none; 
+  background-color: transparent; 
 }
