@@ -1,0 +1,22 @@
+{
+  "name": "zakaontop",
+  "version": "4.1.0",
+  "description": "single file for zaka",
+  "main": "hw.svg",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaka13alt/history.git"
+  },
+  "author": "zaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightspedfr/zka/issues"
+  },
+  "homepage": "https://github.com/zaka13alt/history#readme",
+  "exports": {
+    "default": "./hw.svg"
+  }
+}
